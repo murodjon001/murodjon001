@@ -1,4 +1,4 @@
-[![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/python-developer.png)
+[![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/python-developer.png)]
 <h1 align="center">Hi 👋, I'm Murodjon Shermuhammedov</h1>
 <h3 align="center">Python backend developer who is constantly working on himself, responsible for his work and trying to complete tasks on time!</h3>
 <img align='right' alt="Coding" width="400" src= "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47po2rn0wb8qwdv95bw029sxsyn5ktd8pyv71e1pfr&rid=giphy.gif&ct=g"
