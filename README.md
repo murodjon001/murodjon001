@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Murodjon Shermuhammedov</h1>
-<h3 align="center">Python backend developer who is constantly working on himself, responsible for his work and trying to complete tasks on time!</h3>
+<h3 align="center"> Backend developer who is constantly working on himself, responsible for his work and trying to complete tasks on time!</h3>
 <img align='right' alt="Coding" width="400" src= "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47po2rn0wb8qwdv95bw029sxsyn5ktd8pyv71e1pfr&rid=giphy.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murodjon001&label=Profile%20views&color=0e75b6&style=flat" alt="murodjon001" /> </p>
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mrit.uz/](https://mrit.uz/)
 
-- 💬 Ask me about **Python, Django, DRF**
+- 💬 Ask me about **Node.js, Express, PHP, Python, Django, DRF**
 
 - 📫 How to reach me **shermuhamedovmurodjon@gmail.com**
 
