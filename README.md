@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [MRIT site API](https://mrit.uz/)
+- 🔭 I’m currently working on [Coursetop](https://www.coursetop.uz/)
 
-- 👨‍💻 All of my projects are available at [https://mrit.uz/](https://mrit.uz/)
+- 👨‍💻 All of my projects are available at [https://www.coursetop.uz/](https://www.coursetop.uz/)
 
-- 💬 Ask me about **Node.js, Express, Nest.js, Prisma, PHP, Python, Django, DRF**
+- 💬 Ask me about **Node.js, Express, Nest.js, Prisma, PHP, Python, Django, DRF, PostgreSQL, Docker**
 
 - 📫 How to reach me **shermuhamedovmurodjon@gmail.com**
 
